@@ -23,19 +23,14 @@
   <tr>
    <td>
      <h2> 🛠 &nbsp;Tech Stack</h2>
-     <img src="https://img.shields.io/badge/-Java-05122A?style=flat&logo=java"/>
+     <img src="https://img.shields.io/badge/Java-05122A?style=flat&logo=java"/>
+     <img src="https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=typescript"/> 
      <br>
      <img src="https://img.shields.io/badge/-Spring-05122A?style=flat&logo=spring"/>
+     <img src="https://img.shields.io/badge/Amazon_AWS-05122A?style=flat&logo=amazon-aws&logoColor=white"/>
      <br>
      <img src="https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown"/>
      <br>
-     <img src="https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=typescript"/>
-     <br>
-     <img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git"/>
-     <img src="https://img.shields.io/badge/-Github-05122A?style=flat&logo=github"/>
-     <img src="https://img.shields.io/badge/-Gitlab-05122A?style=flat&logo=gitlab"/>
-     <br>
-     <img src="https://img.shields.io/badge/-MySql-05122A?style=flat&logo=mysql"/>
      <img src="https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql"/>
      <br>
      <img src="https://img.shields.io/badge/-IntelliJ-05122A?style=flat&logo=intellijidea"/>
