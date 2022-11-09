@@ -29,8 +29,6 @@
      <br>
      <img src="https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown"/>
      <br>
-     <img src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5"/>
-     <img src="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3"/>
      <img src="https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=typescript"/>
      <br>
      <img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git"/>
