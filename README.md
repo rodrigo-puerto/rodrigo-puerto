@@ -11,7 +11,9 @@
        </ul>
        <p align="center">
          <br>
-        <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rodrigo-puerto&langs_count=8&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
+        <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rodrigo-puerto&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
+         <br>
+         [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigo-puert&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
         </p>
     </td>
     <td>
